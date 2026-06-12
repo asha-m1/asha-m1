@@ -14,7 +14,14 @@ I'm passionate about automation, cloud-native technologies, and making DevOps ac
 ---
 
 
-# Tech Stack 
+### 
+<div align="center">
+<a href="https://github.com/asha-m1/myapp">
+<img width="600" height="150" alt="Tech Stack (1)" src="https://github.com/user-attachments/assets/18553309-449c-4668-83f2-dbee8cbc7c63" />
+</a>
+</div>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="120" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" width="150" />
@@ -33,14 +40,16 @@ I'm passionate about automation, cloud-native technologies, and making DevOps ac
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" width="150" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=asha-m1&style=flat-square&color=green)
 
 ---
 
 <br>
 
-### Cloud & Platform Engineering Projects 🚀
+### Cloud & Platform Engineering Projects 🚀 <br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=asha-m1&style=flat-square&color=green)
+
+<br>
 
 | Project | Description & Impact | Tech & Links |
 | :--- | :--- | :--- |
@@ -50,6 +59,40 @@ I'm passionate about automation, cloud-native technologies, and making DevOps ac
 
 <br>
 
+<p align="center">
+  <a href="https://www.loom.com/share/YOUR-LOOM-ID">
+    <img width="400" alt="myappthumbnail" src="https://github.com/user-attachments/assets/1f1119e8-e08e-4b54-944b-79b7f723200d" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/asha-m1/terraform-eks">
+    <img width="400" alt="terraformeksthumnail" src="https://github.com/user-attachments/assets/11417a75-c4e0-423d-868a-de1b82c8a2ec" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>🐍 myapp - Production CI/CD Pipeline</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>🏗️ terraform-eks - AWS Infrastructure as Code</strong>
+</p>
+
+<p align="center">
+  <em>Click to watch demo</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em>Click to view repository</em>
+</p>
+
+
+<br>
+
+---
+
+<br>
+
+
+
+
+
+<!--
 
 
 ### Building Now: Advanced Observability & Multi-Cloud Projects 🚀
@@ -83,12 +126,6 @@ I'm passionate about automation, cloud-native technologies, and making DevOps ac
 
 <br>
 
----
-
-
-
-
-<!--
 **asha-m1/asha-m1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -101,4 +138,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![AI Job Tracker Demo](myappthumbnail.jpg)](https://www.loom.com/share/your-video-id)  
+<img width="1376" height="768" alt="myappthumbnail" src="https://github.com/user-attachments/assets/1f1119e8-e08e-4b54-944b-79b7f723200d" />
+<img width="1376" height="768" alt="terraformeksthumnail" src="https://github.com/user-attachments/assets/11417a75-c4e0-423d-868a-de1b82c8a2ec" />
+
 -->
