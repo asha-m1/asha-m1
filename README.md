@@ -1,26 +1,27 @@
 <div align="center">
 
-# Hi, I'm Asha
+# Hi, I'm Asha 
+
+
 
 **DevOps & AI Platform Engineer** · Building scalable infrastructure and AI-powered platforms
 
 I'm passionate about automation, cloud-native technologies, and making DevOps accessible. I love building tools, contributing to open-source, and sharing knowledge with the community. 💻
 
-<div align="left">
-  
 
-</div>
+<br>
 
 ---
 
+<br>
 
 ### 
+
 <div align="center">
-<a href="https://github.com/asha-m1/myapp">
-<img width="600" height="150" alt="Tech Stack (1)" src="https://github.com/user-attachments/assets/18553309-449c-4668-83f2-dbee8cbc7c63" />
-</a>
+  <img width="500" alt="test" src="https://github.com/user-attachments/assets/18553309-449c-4668-83f2-dbee8cbc7c63" />
 </div>
 
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="120" />
