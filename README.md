@@ -2,13 +2,14 @@
 
 # Hi, I'm Asha 
 
+<br>
+
 
 
 **DevOps Engineer** · Building scalable infrastructure and AI-powered platforms
   
 I'm passionate about automation, cloud-native technologies, and making DevOps accessible. I love building tools, contributing to open-source, and sharing knowledge with the community. 💻
 
-<br>
 
 <br>
 
@@ -18,7 +19,6 @@ I'm passionate about automation, cloud-native technologies, and making DevOps ac
   <img width="300" alt="test" src="https://github.com/user-attachments/assets/18553309-449c-4668-83f2-dbee8cbc7c63" />
 </div>
 
-<br>
 
 
 
@@ -75,7 +75,6 @@ automation, monitoring, security scanning and Infrastructure as Code.
 
 <br>
 
----
 
 <br>
 
