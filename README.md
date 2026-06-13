@@ -71,6 +71,11 @@ automation, monitoring, security scanning and Infrastructure as Code.
 
 <br>
 
+<div align="center">
+  
+▄▀▄▀▄▀  [![Project Board](https://img.shields.io/badge/Journey_Board-View_Progress-FF9900?style=flat-square&logo=github)](https://github.com/users/asha-m1/projects/1) ▀▄▀▄▀▄
+ 
+
 <div align="left"> 
 
 
@@ -83,6 +88,10 @@ automation, monitoring, security scanning and Infrastructure as Code.
 
 
 <!--
+
+# Project journey - progress badge 
+#### Project progress [![Project Board](https://img.shields.io/badge/Journey_Board-View_Progress-FF9900?style=flat-square&logo=github)](https://github.com/users/asha-m1/projects/1) 
+
 # Project progress bar 
 ### Upcoming Projects 🚀
 
