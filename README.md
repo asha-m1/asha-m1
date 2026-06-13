@@ -4,24 +4,24 @@
 
 
 
-**DevOps & AI Platform Engineer** · Building scalable infrastructure and AI-powered platforms
-
+**DevOps Engineer** · Building scalable infrastructure and AI-powered platforms
+  
 I'm passionate about automation, cloud-native technologies, and making DevOps accessible. I love building tools, contributing to open-source, and sharing knowledge with the community. 💻
 
-
 <br>
-
----
 
 <br>
 
 ### 
 
 <div align="center">
-  <img width="500" alt="test" src="https://github.com/user-attachments/assets/18553309-449c-4668-83f2-dbee8cbc7c63" />
+  <img width="300" alt="test" src="https://github.com/user-attachments/assets/18553309-449c-4668-83f2-dbee8cbc7c63" />
 </div>
 
 <br>
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="120" />
@@ -41,14 +41,25 @@ I'm passionate about automation, cloud-native technologies, and making DevOps ac
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" width="150" />
 </p>
 
+<br>
 
 ---
 
 <br>
 
-### Cloud & Platform Engineering Projects 🚀 <br>
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=asha-m1&style=flat-square&color=green)
+### Cloud & Platform Engineering Projects 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=asha-m1&style=flat-square&color=green)  
+
+<br>
+
+<div align="left">
+
+📁 1. [ Production Grade EKS Pipeline project ✓ ](https://github.com/asha-m1/myapp) <br> 
+Built a complete production-grade DevOps pipeline from scratch: containerised Python Flask application deployed to AWS EKS with full 
+automation, monitoring, security scanning and Infrastructure as Code. 
 
 <br>
 
@@ -59,6 +70,19 @@ I'm passionate about automation, cloud-native technologies, and making DevOps ac
 | ⚡ **node-drainer-lambda** | AWS Lambda hook for ASG lifecycle events. Gracefully drains K8s nodes before termination for zero downtime. | `AWS Lambda` `Python` `boto3` `Kubernetes API` `SNS` `ASG Lifecycle Hooks` <br> [📁 Code↗](https://github.com/asha-m1/myapp/tree/main/node-drainer) |
 
 <br>
+
+
+
+<br>
+
+---
+
+<br>
+
+
+
+<!--
+
 
 <p align="center">
   <a href="https://www.loom.com/share/YOUR-LOOM-ID">
@@ -83,18 +107,15 @@ I'm passionate about automation, cloud-native technologies, and making DevOps ac
 </p>
 
 
-<br>
+📁 2. [EKS Project Repo ✓ ](https://github.com/asha-m1/myapp) <br> 
+📁 3. [llm-gateway Repo ✓ ](https://github.com/asha-m1/myapp) <br>
+📁 4. [llm-gateway Repo ✓ ](https://github.com/asha-m1/myapp) <br>
+📁 4. [My Tech Articles](https://github.com/asha-m1/myapp) <br>
 
----
-
-<br>
-
-
-
-
-
-<!--
-
+📁 [ECS Project Repo ✓ ](https://github.com/asha-m1/myapp) <br> 
+📁 [EKS Project Repo ✓ ](https://github.com/asha-m1/myapp) <br> 
+📁 [llm-gateway Repo ✓ ](https://github.com/asha-m1/myapp) <br>
+📁 [llm-gateway Repo ✓ ](https://github.com/asha-m1/myapp) <br>
 
 ### Building Now: Advanced Observability & Multi-Cloud Projects 🚀
 
@@ -139,6 +160,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 [![AI Job Tracker Demo](myappthumbnail.jpg)](https://www.loom.com/share/your-video-id)  
 <img width="1376" height="768" alt="myappthumbnail" src="https://github.com/user-attachments/assets/1f1119e8-e08e-4b54-944b-79b7f723200d" />
 <img width="1376" height="768" alt="terraformeksthumnail" src="https://github.com/user-attachments/assets/11417a75-c4e0-423d-868a-de1b82c8a2ec" />
