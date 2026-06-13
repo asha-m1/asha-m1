@@ -4,12 +4,9 @@
 
 <br>
 
-
-
 **DevOps Engineer** · Building scalable infrastructure and AI-powered platforms
   
 I'm passionate about automation, cloud-native technologies, and making DevOps accessible. I love building tools, contributing to open-source, and sharing knowledge with the community. 💻
-
 
 <br>
 
@@ -63,6 +60,9 @@ automation, monitoring, security scanning and Infrastructure as Code.
 
 <br>
 
+
+<br>
+
 | Project | Description & Impact | Tech & Links |
 | :--- | :--- | :--- |
 | 🐍 **myapp** | Production CI/CD pipeline for a Flask app. Auto-deploys to AWS EKS with self-monitoring and security.  | `Docker` `AWS EKS` `Terraform` `GitHub Actions` `Prometheus` `Grafana` `ArgoCD` `Helm` `Trivy`  <br> [📁 Repo↗](https://github.com/asha-m1/myapp) · [📖 Wiki↗](https://github.com/asha-m1/myapp/wiki) |
@@ -70,6 +70,8 @@ automation, monitoring, security scanning and Infrastructure as Code.
 | ⚡ **node-drainer-lambda** | AWS Lambda hook for ASG lifecycle events. Gracefully drains K8s nodes before termination for zero downtime. | `AWS Lambda` `Python` `boto3` `Kubernetes API` `SNS` `ASG Lifecycle Hooks` <br> [📁 Code↗](https://github.com/asha-m1/myapp/tree/main/node-drainer) |
 
 <br>
+
+<div align="left"> 
 
 
 
@@ -81,7 +83,12 @@ automation, monitoring, security scanning and Infrastructure as Code.
 
 
 <!--
+# Project progress bar 
+### Upcoming Projects 🚀
 
+Production Grade EKS Pipeline project   ████████████████████  ✅ Live  <br>
+Production Grade EKS Pipeline project   ░░░░░░░░░░░░░░░░░░░░  🔨 Building now <br>
+Production Grade EKS Pipeline project   ░░░░░░░░░░░░░░░░░░░░  ⏳ Coming next <br>
 
 <p align="center">
   <a href="https://www.loom.com/share/YOUR-LOOM-ID">
